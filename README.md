@@ -5,7 +5,7 @@
   _First Git for Software Frameworks course._
 
 ## Install Instructions
-  1. download git in you personal computer.
+  1. Download git in you personal computer.
   2. Use git clone command to clone this repository. 
   3. Make changes and commit the changes. 
   
@@ -15,7 +15,8 @@
   * type node index.js in the command line. 
   * You will see the code executed. 
   
-**WEEKS | TOPICS
+## Table of weeks
+WEEKS | TOPICS
 ----|----
 week 1 | Java Script
 Week 2 | GitHub
